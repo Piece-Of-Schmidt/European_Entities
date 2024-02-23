@@ -11,7 +11,7 @@ The dataset encompasses a diverse array of entities, including but not limited t
 **Included Newspapers:**
 - CincoDias (Spain): A leading Spanish business daily
 - Handelsblatt (Germany): Germany's premier business newspaper
-- Il Sole 24 Ore (Italy): Italy's authoritative source on financial news
+- Il Sole 24 Ore (Italy): Italy's leading source on financial news
 - Les Echos (France): France's primary business newspaper
 - The Financial Times (UK): *The* international business newspaper based in the UK (not EU, obviously, but hard to ignore when analyzing business daylies)
 - WirtschaftsBlatt (Austria): Austria's key business daily
