@@ -20,19 +20,21 @@ The dataset encompasses a diverse array of entities, including but not limited t
 
 The dataset was generated through the extraction of named entities using Spacy's NER models. The association of each entity with a country or region label was performed manually, ensuring a high degree of accuracy and relevance. The list contains all entities that occured more than 100 times in the respective corpus. The country/region labels follow the list of [Standard country or area codes for statistical use](https://unstats.un.org/unsd/methodology/m49/overview/) provided by the UN.   
 
-Potential Applications
+## Potential Applications
 
-The dataset is intended to serve as a foundational resource for researchers, journalists, and policymakers interested in exploring the dynamics of European integration through media coverage. It can be used to:
+The dataset is intended to serve as a foundational resource for researchers, journalists, and policymakers. It can be used to:
 
-    Analyze trends in the representation of European countries and institutions in business media.
-    Investigate the degree of Europeanization of the public sphere as reflected in economic reporting.
-    Develop further studies on media bias, focus, and attention across different European regions.
+- Select documents that are associated with a country/region of interest from a large text dataset
+- Analyze trends in the representation of (European) countries and institutions in business media
+- Investigate the degree of Europeanization of the public sphere as reflected in diverse texts
+
 
 ## Accessing the Dataset
 
 The dataset is freely available for academic and research purposes. We encourage its use for studies related to European public sphere, media analysis, and computational linguistics.
 
-## Contribution and Support
+## Disclaimer, Contribution and Support
 
+Please note that this is an early stage dataset that will be corrected/updated in future. We make no claim to completeness or absence of misclassifications.
 We welcome contributions from the community, including updates to the dataset, methodological improvements, or corrections. For support or to contribute, please open an issue or a pull request in this repository.
 
