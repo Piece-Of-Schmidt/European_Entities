@@ -2,7 +2,7 @@
 
 ## Overview
 
-The European_Entities dataset is a meticulously curated collection featuring over 4,000 named entities derived from a comprehensive analysis of major European business newspapers. Each entity in the dataset is associated with a specific country or region, reflecting the geographic or institutional context most closely related to it. This dataset was created using simple Named Entity Recognition (NER) techniques, specifically employing the Spacy NER model, renowned for its accuracy and efficiency in processing multilingual text.
+The `unique_entities.csv` dataset is a meticulously curated collection featuring over 4,000 named entities derived from a comprehensive analysis of major European business newspapers. Each entity in the dataset is associated with a specific country or region, reflecting the geographic or institutional context most closely related to it. This dataset was created using simple Named Entity Recognition (NER) techniques, specifically employing the Spacy NER model, renowned for its accuracy and efficiency in processing multilingual text.
 
 ## Dataset Composition
 
