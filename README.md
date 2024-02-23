@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `unique_entities.csv` dataset is a collection of over 4,000 named entities derived from a comprehensive analysis of major European business newspapers. Each entity in the dataset is associated with a specific country or region, reflecting the geographic or institutional context most closely related to it. This dataset was created using simple Named Entity Recognition (NER) techniques, specifically employing the Spacy NER model.
+The `unique_entities.csv` dataset is a collection of over 4,000 named entities derived from a comprehensive analysis of major European business newspapers. Each entity in the dataset is associated with a specific country or region, reflecting the geographic or institutional context most closely related to it. This dataset was created using simple Named Entity Recognition (NER) techniques, specifically employing Spacy's NER models.
 
 ## Dataset Composition
 
@@ -35,6 +35,6 @@ The dataset is freely available for academic and research purposes. We encourage
 
 ## Disclaimer, Contribution and Support
 
-Please note that this is an early stage dataset that will be corrected/updated in future. We make no claim to completeness or absence of misclassifications.
+Please note that this is an early stage dataset that will be corrected/updated in the future. For now, it is based only on the newspapers mentioned above, so it is still missing data from the majority of European countries. We make no claim to completeness or absence of misclassifications.
 We welcome contributions from the community, including updates to the dataset, methodological improvements, or corrections. For support or to contribute, please open an issue or a pull request in this repository.
 
